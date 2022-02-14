@@ -11,3 +11,5 @@
 理解系统调用不可避免需要理解C++代码；
 
 etc....
+
+如果没按照IDE的话，纯文本命令执行如`g++ -std=c++11 -stdlib=libc++ byte_pointer.cpp`
